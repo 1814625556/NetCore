@@ -1,0 +1,4 @@
+﻿
+
+1：xml文件前缀： 查看地址：https://www.bilibili.com/video/av77957694?p=25  time: 10：22
+	<CompanyDto xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Routine.Api.Models"
